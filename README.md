@@ -9,6 +9,6 @@ grad.py: Program that downloads cutout data for subhalos to find metallicity/age
 
 grad4.py: Program similar to grad.py but calculates age gradient out to 4Re with 2 bins for classifying how gradient changes.
 
-classify.py: Program that classifys galaxies into 3 types depending on how gradient changes.
+classify.py: Program that classifys galaxies into 3 types depending on how gradient changes - takes data from grad4.py.
 
 add.py: Program that adds fake data to lengthen gradient data to allow the gradient arrays to have correct indexing for TNG's central galaxy index parameter: GroupFirstSub.
