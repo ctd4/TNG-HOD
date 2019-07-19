@@ -1,5 +1,6 @@
 # TNG-HOD
 Files:
+
 HODplot.py: Program that creates HOD with error bars allowing HOD to be split into 2 populations.
 
 HODplot3.py: Program that fuctions the same as HODplot.py but also plots the central and satellite galaxies.
